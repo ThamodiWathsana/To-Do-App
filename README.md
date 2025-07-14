@@ -1,5 +1,5 @@
-Taskly - To-Do List Application
-Overview
+#Taskly - To-Do List Application
+#Overview
 Taskly is a Flutter-based mobile application designed to help users manage their tasks efficiently. It provides a user-friendly interface for signing up, signing in, and managing tasks. Users can create, view, mark as complete, and delete tasks, with a feature to highlight the most urgent task based on due date and time. The app is built with a consistent purple-themed design and supports responsive layouts for various devices.
 Features
 
